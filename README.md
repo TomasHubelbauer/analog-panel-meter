@@ -15,6 +15,14 @@ There is a particular type of these meters which I am very fond of the look of:
 
 ![](meters.png)
 
+I think these are from a product line called Metra DHR5.
+I was able to find a source online which suggests DHR3 and DHR8 also existed and
+the difference was in the dimensions of the mounting radius (the cylindrical
+body of the meter) but all have associated face plate dimensions which should be
+44 mm for DHR3, 70 mm for DHR5 and 111 mm for DHR8.
+
+http://www.ebastlirna.cz/modules.php?name=Forums&file=viewtopic&t=71592
+
 I'll try to replace this photo with a better one when I feel like setting up a
 better environment to shoot these in.
 
